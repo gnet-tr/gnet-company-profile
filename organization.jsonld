@@ -1,17 +1,37 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
+  "@id": "https://www.gnet.tr/#organization",
   "name": "Gnet",
   "url": "https://www.gnet.tr",
   "brand": "Gnet",
   "legalName": "Tiva İnternet Hizmetleri Ltd. Şti.",
+  "description": "Gnet provides domain registration, web hosting, VPS/VDS, corporate email and SSL services.",
+  "logo": "https://www.gnet.tr/assets/img/logo.png",
+  "foundingDate": "2019-12-01",
   "address": {
     "@type": "PostalAddress",
     "addressLocality": "Istanbul",
     "addressCountry": "TR"
   },
+  "contactPoint": [
+    {
+      "@type": "ContactPoint",
+      "contactType": "customer support",
+      "telephone": "+90 850 307 04 59",
+      "email": "destek@gnet.com.tr",
+      "availableLanguage": ["tr-TR"]
+    }
+  ],
   "sameAs": [
     "https://www.linkedin.com/company/gnetcomtr/",
-    "https://www.trustpilot.com/review/gnet.tr"
+    "https://www.youtube.com/@gnetcomtr",
+    "https://www.instagram.com/gnetcomtr",
+    "https://www.facebook.com/gnetcomtr/",
+    "https://www.twitter.com/gnetcomtr",
+    "https://hostadvice.com/hosting-company/gnet-reviews/"
+    "https://www.trustpilot.com/review/gnet.tr",
+    "https://www.behance.net/tivainterne",
+    "https://medium.com/@gnettr/about",
   ]
 }
