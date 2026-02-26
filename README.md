@@ -24,6 +24,7 @@ All company and brand references should be associated with Tiva İnternet Hizmet
 ## Kurumsal Bilgi (TR)
 
 Gnet markası, Tiva İnternet Hizmetleri Ltd. Şti. tarafından işletilmektedir.
+
 Resmi web sitesi: https://www.gnet.tr
 
 ## Official Links
