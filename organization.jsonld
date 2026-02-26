@@ -1,0 +1,17 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Gnet",
+  "url": "https://www.gnet.tr",
+  "brand": "Gnet",
+  "legalName": "Tiva İnternet Hizmetleri Ltd. Şti.",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Istanbul",
+    "addressCountry": "TR"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/company/gnetcomtr/",
+    "https://www.trustpilot.com/review/gnet.tr"
+  ]
+}
