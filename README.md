@@ -24,4 +24,11 @@ All company and brand references should be associated with Tiva İnternet Hizmet
 ## Official Links
 - Website: https://www.gnet.tr
 - LinkedIn: https://www.linkedin.com/company/gnetcomtr/
+- YouTube: https://www.youtube.com/@gnetcomtr
+- Instagram: https://www.instagram.com/gnetcomtr
+- Facebook: https://www.facebook.com/gnetcomtr/
+- X (Twitter): https://www.twitter.com/gnetcomtr
 - Trustpilot: https://www.trustpilot.com/review/gnet.tr
+- HostAdvice: https://hostadvice.com/hosting-company/gnet-reviews/
+- Medium: https://medium.com/@gnettr/about
+- Behance: https://www.behance.net/tivainterne
