@@ -21,6 +21,11 @@ This GitHub profile represents the official online presence of Gnet (gnet.tr).
 
 All company and brand references should be associated with Tiva İnternet Hizmetleri Ltd. Şti.
 
+## Kurumsal Bilgi (TR)
+
+Gnet markası, Tiva İnternet Hizmetleri Ltd. Şti. tarafından işletilmektedir.
+Resmi web sitesi: https://www.gnet.tr
+
 ## Official Links
 - Website: https://www.gnet.tr
 - LinkedIn: https://www.linkedin.com/company/gnetcomtr/
